@@ -1,0 +1,16 @@
+{
+  "name": "curso-asincronismo",
+  "version": "1.0.0",
+  "description": "curso de platzi",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challege.js "
+  },
+  "author": "vladimir farrera vera",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.1",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
